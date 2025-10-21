@@ -1,4 +1,4 @@
-import { range } from "../src/arrary";
+import { range } from "../src/array";
 
 test("should handle valid case", () => {
   expect(range(1, 6)).toEqual([1, 2, 3, 4, 5]);

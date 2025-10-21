@@ -2,7 +2,6 @@
 
 > A lightweight JavaScript utility library providing handy functions for daily development.
 
-
 <p align="center">
   <a href="https://www.npmjs.com/package/tiny-js-ulti">
     <img src="https://img.shields.io/npm/v/tiny-js-ulti.svg" alt="npm version">
@@ -19,8 +18,6 @@
 </p>
 
 ---
-
-
 
 ## 🎨 Features (Current Version):
 
@@ -78,6 +75,4 @@ If you encounter any issues while using tiny-js-ultik, or if you have any sugges
 
 ## 📝 License
 
-tiny-js-ulti is released under the MIT License. For more details, please refer to the [LICENSE](./LICENSE) file.
-
-
+tiny-js-ulti is released under the MIT License. For more details, please refer to the [LICENSE](./license) file.

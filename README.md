@@ -1,19 +1,19 @@
-# 🧰 tiny-js-ulti2
+# 🧰 tiny-js-util2
 
 > A lightweight JavaScript utility library providing handy functions for daily development.
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/tiny-js-ulti2">
-    <img src="https://img.shields.io/npm/v/tiny-js-ulti2.svg" alt="npm version">
+  <a href="https://www.npmjs.com/package/tiny-js-util2">
+    <img src="https://img.shields.io/npm/v/tiny-js-util2.svg" alt="npm version">
   </a>
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
   </a>
-  <a href="https://github.com/yourname/tiny-js-ulti2/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/yourname/tiny-js-ulti2/ci.yml?branch=main" alt="Build Status">
+  <a href="https://github.com/yourname/tiny-js-util2/actions">
+    <img src="https://img.shields.io/github/actions/workflow/status/yourname/tiny-js-util2/ci.yml?branch=main" alt="Build Status">
   </a>
-  <a href="https://codecov.io/gh/yourname/tiny-js-ulti2">
-    <img src="https://img.shields.io/codecov/c/github/yourname/tiny-js-ulti2/main.svg" alt="Coverage">
+  <a href="https://codecov.io/gh/yourname/tiny-js-util2">
+    <img src="https://img.shields.io/codecov/c/github/yourname/tiny-js-util2/main.svg" alt="Coverage">
   </a>
 </p>
 
@@ -30,17 +30,17 @@
 ## 📦 Installation
 
 ```bash
-npm install tiny-js-ulti2
+npm install tiny-js-util2
 # or
-yarn add tiny-js-ulti2
+yarn add tiny-js-util2
 ```
 
 ## 👔 Usage
 
-Before using it, you need to import the desired methods from jstoolpack:
+Before using it, you need to import the desired methods from tiny-js-util2:
 
 ```js
-import { range, truncate, debounce } from "jstoolpack";
+import { range, truncate, debounce } from "tiny-js-util2";
 ```
 
 Then you can start using them right away.
@@ -71,8 +71,8 @@ All notable changes are documented in the [CHANGELOG.md](./CHANGELOG.md). This p
 
 ## 🤝 Contributing
 
-If you encounter any issues while using tiny-js-ulti2, or if you have any suggestions or ideas, feel free to open an issue or submit a pull request on [GitHub](https://github.com/guoliang724/npm-tiny-js-utils).
+If you encounter any issues while using tiny-js-util2, or if you have any suggestions or ideas, feel free to open an issue or submit a pull request on [GitHub](https://github.com/guoliang724/npm-tiny-js-utils).
 
 ## 📝 License
 
-tiny-js-ulti2 is released under the MIT License. For more details, please refer to the [LICENSE](./license) file.
+tiny-js-util2 is released under the MIT License. For more details, please refer to the [LICENSE](./license) file.

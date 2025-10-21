@@ -1,19 +1,19 @@
-# 🧰 tiny-js-ulti
+# 🧰 tiny-js-ulti2
 
 > A lightweight JavaScript utility library providing handy functions for daily development.
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/tiny-js-ulti">
-    <img src="https://img.shields.io/npm/v/tiny-js-ulti.svg" alt="npm version">
+  <a href="https://www.npmjs.com/package/tiny-js-ulti2">
+    <img src="https://img.shields.io/npm/v/tiny-js-ulti2.svg" alt="npm version">
   </a>
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
   </a>
-  <a href="https://github.com/yourname/tiny-js-ulti/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/yourname/tiny-js-ulti/ci.yml?branch=main" alt="Build Status">
+  <a href="https://github.com/yourname/tiny-js-ulti2/actions">
+    <img src="https://img.shields.io/github/actions/workflow/status/yourname/tiny-js-ulti2/ci.yml?branch=main" alt="Build Status">
   </a>
-  <a href="https://codecov.io/gh/yourname/tiny-js-ulti">
-    <img src="https://img.shields.io/codecov/c/github/yourname/tiny-js-ulti/main.svg" alt="Coverage">
+  <a href="https://codecov.io/gh/yourname/tiny-js-ulti2">
+    <img src="https://img.shields.io/codecov/c/github/yourname/tiny-js-ulti2/main.svg" alt="Coverage">
   </a>
 </p>
 
@@ -30,9 +30,9 @@
 ## 📦 Installation
 
 ```bash
-npm install tiny-js-ulti
+npm install tiny-js-ulti2
 # or
-yarn add tiny-js-ulti
+yarn add tiny-js-ulti2
 ```
 
 ## 👔 Usage
@@ -71,8 +71,8 @@ All notable changes are documented in the [CHANGELOG.md](./CHANGELOG.md). This p
 
 ## 🤝 Contributing
 
-If you encounter any issues while using tiny-js-ultik, or if you have any suggestions or ideas, feel free to open an issue or submit a pull request on [GitHub](https://github.com/guoliang724/npm-tiny-js-utils).
+If you encounter any issues while using tiny-js-ulti2, or if you have any suggestions or ideas, feel free to open an issue or submit a pull request on [GitHub](https://github.com/guoliang724/npm-tiny-js-utils).
 
 ## 📝 License
 
-tiny-js-ulti is released under the MIT License. For more details, please refer to the [LICENSE](./license) file.
+tiny-js-ulti2 is released under the MIT License. For more details, please refer to the [LICENSE](./license) file.

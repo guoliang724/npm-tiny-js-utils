@@ -6,6 +6,14 @@
   "module": "dist/tiny-js-util.esm.js",
   "browser": "dist/tiny-js-util.umd.js",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guoliang724/tiny-js-util2.git"
+  },
+  "homepage": "https://github.com/guoliang724/tiny-js-util2#readme",
+  "bugs": {
+    "url": "https://github.com/guoliang724/tiny-js-util2/issues"
+  },
   "scripts": {
     "test": "jest",
     "build": "rollup -c"
